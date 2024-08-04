@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**HayatAl/HayatAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[HAYAT ALI]**, a Computer Science graduate with a passion for front-end development. 🌟 I’m all about turning complex problems into sleek, user-friendly designs.
 
-Here are some ideas to get you started:
+### Technologies I Love 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML** 📜
+- **CSS** 🎨
+- **JavaScript** 🚀
+- **React** ⚛️
+- **JSON** 🗂️
+- **Node.js** 🌐
+
+Driven by creativity and a love for crafting intuitive user experiences, I'm always exploring new ways to push the boundaries of web development. If you're looking for someone who blends technical expertise with a keen eye for detail, let’s connect!
+
+Feel free to check out my work and get in touch:
+
+📧 **[hayat.alialalwi@gmail.com]**  
+🔗 [linkedin.com/in/hayat-alalwi-2bb558219]
